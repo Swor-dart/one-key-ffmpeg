@@ -6,5 +6,5 @@
 使用方式
 请在root用户下运行
 ``` bash
-wget https://github.com/ZL-Asica/one-key-ffmpeg/raw/master/zla-install-ffmpeg.sh && chmod +x zla-install-ffmpeg.sh && ./zla-install-ffmpeg.sh
+wget https://github.com/Swor-dart/one-key-ffmpeg/raw/master/zla-install-ffmpeg.sh && chmod +x zla-install-ffmpeg.sh && ./zla-install-ffmpeg.sh
 ```
